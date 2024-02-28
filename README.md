@@ -21,7 +21,7 @@ Site published at: https://madrakas.github.io/bit_06_01_homework_random_color_ap
 
 
 ## 🧭 Other repositories from same course
-1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
+1. [General programming skills and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
 2. [Intro to HTML and CS](https://github.com/madrakas/bit_02_Intro_to_html/)
 3. [HTML and CSS basics, UFO 404 page](https://github.com/madrakas/bit_03_html-ufo)
 4. [HTML and CSS,  Real Estate Website](https://github.com/madrakas/bit_04_html_real_estate/)
