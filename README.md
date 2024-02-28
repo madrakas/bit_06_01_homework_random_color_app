@@ -59,7 +59,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/madrakas/bit_05_dom_intro.git
+    git clone https://github.com/madrakas/bit_06_01_homework_random_color_app.git
     ```
 2. Install NPM packages
     ```sh
